@@ -27,4 +27,4 @@
       });
     }
   });
-}).call(this, this);
+}).call(this.gin, this.gin);
